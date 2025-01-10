@@ -26,5 +26,5 @@ class AgendaTelefonica:
 
 # Uso de la agenda
 agenda = AgendaTelefonica()
-agenda.agregar_contacto(Contacto("Juan Pérez", "123456789", "Av. 9 de Octubre", "juan@correo.com"))
+agenda.agregar_contacto(Contacto("Shirley Ube", "099875977", "De Octubre", "shirleyub@gmail.com"))
 print(agenda.mostrar_agenda())
